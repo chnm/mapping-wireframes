@@ -49,6 +49,10 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
+body {font-family: 'Muli', sans-serif;}
+
+h2,h3,h4,h5 {font-family: 'Share', cursive;}
+
 img {margin-bottom:1rem}
 
 .callout.primary {background:#EEE}
