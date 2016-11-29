@@ -57,13 +57,13 @@ img {margin-bottom:1rem}
 
 .callout.primary {background:#EEE}
 
-.border-right {border-right:1px solid #cacaca}
+.border-right {border-right:1px solid $secondary-header-color}
 
-.featured {border-bottom:1px solid #cacaca; overflow:hidden; margin-bottom:1rem}
+.featured {border-bottom:1px solid $secondary-header-color; overflow:hidden; margin-bottom:1rem}
 
-.border-left {border-left:1px solid #cacaca}
+.border-left {border-left:1px solid $secondary-header-color}
 
-.border-top {border-top:1px solid #cacaca}
+.border-top {border-top:1px solid $secondary-header-color}
 
 .map-button {width:100%}
 
@@ -71,6 +71,29 @@ img {margin-bottom:1rem}
 
 .gray {background:#eee; padding:.75rem}
 
+.box-bg {border-top: 1px solid $secondary-header-color; /*border-left: 1px solid $secondary-header-color; margin-bottom:2rem;background-color:lighten($tertiary, 7%);*/ margin-bottom:1rem; padding:.75rem; background-color:rgba($secondary-header-color, .7)}
+
 .clear {clear:both}
 
-.blog-entry {border-top:1px solid #cacaca; padding-top:1rem;}
+.blog-entry {border-top:1px solid $secondary-header-color; padding-top:1rem;}
+
+hr {border-bottom:1px solid $secondary-header-color}
+
+h1 a, a {color:$h1-color};
+
+.button.success {background-color:$secondary-header-color}
+
+a:hover {color:darken($h1-color, 10%)}
+
+a.graf-link {color:#fff}
+
+a.graf-link:hover {border-bottom:1px solid lighten($secondary-header-color,75%)}
+
+.button.success:hover {background-color:lighten($secondary-header-color, 10%)}
+
+h2, h3, h4, h5, .nav-link a {color:$secondary-header-color}
+
+.nav-link a:hover {
+    color:darken($secondary-header-color, 10%);
+   border-bottom: 2px solid darken($secondary-header-color, 10%);
+}

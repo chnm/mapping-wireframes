@@ -4,26 +4,32 @@
     <div class="large-9 column">
         <div class="featured">
         <div class="large-9 column">
-            <img src="http://placehold.it/1350x775?text=FEATURED ESSAY" alt="" />
+            <img src="img/MappingExample.png" alt="" />
         </div>
-        <div class="large-3 column">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis quis sit a ad ullam eius dolore. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. <a href="essay.php">Read more &rarr;</a></p>
+        <div class="large-3 column top">
+            <h3>Essay Title</h3>
+            <p>Headers are Share, which I feel lends a slight tech feel. Body text is Muli, similar to Avenir, which is popular right now. Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="essay.php">Read more &rarr;</a></p>
         </div>
         </div>
 
 
-        <div class="large-4 column"><img src="http://placehold.it/1350x775?text=ESSAY" alt="" /><p>Another featured essay. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. Read more &rarr;</p></div>
-        <div class="large-4 column border-left"><img src="http://placehold.it/1350x775?text=ESSAY" alt="" /><p>Another featured essay. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. Read more &rarr;</p></div>
-        <div class="large-4 column border-left"><img src="http://placehold.it/1350x775?text=ESSAY" alt="" /><p>Another featured essay. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. Read more &rarr;</p></div>
+        <div class="large-4 column"><img src="img/MappingExample.png" alt="" /><p>Another featured essay. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. <a>Read more &rarr;</a></p></div>
+        <div class="large-4 column border-left"><img src="img/ElectionDay.jpg" alt="" /><p>Another featured essay. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. <a>Read more &rarr;</a></p></div>
+        <div class="large-4 column border-left"><img src="img/MappingExample.png" alt="" /><p>Another featured essay. Atque, veniam exercitationem hic explicabo maiores! Adipisci magni aliquam voluptatibus, ex magnam temporibus voluptas. <a>Read more &rarr;</a></p></div>
     </div>
 
-    <div class="large-3 column border-left">
-        <div class="large-12 column">
+    <div class="large-3 column">
+        <div class="large-12 column top">
           <h5>Ready to Dive Into the Data?</h5>
-          <p class="gray">Use our map explorer to find maps by geography, year, and election type. <a href="maps-landing.php" class="success button">Go&rarr;</a></p>
+          <p class="box-bg"><a class="graf-link">Use our map explorer to find maps by geography, year, and election type.</a> <!-- <a href="maps-landing.php" class="success button">Go&rarr;</a> --></p>
         </div>
-        <div class="large-12 column"><p class="gray">Our raw data is available for download. <a href="" class="success button">Analyze That!</a></p></div>
-        <div class="large-12 column"><p class="gray">We've also got tutorials if you aren't quite sure where to start. <a href="" class="success button">You Must Learn&rarr;</a></p></div>
+        <div class="large-12 column"><p class="box-bg"><a class="graf-link">Our raw data is available for download.</a> <!-- <a href="" class="success button">Analyze That!</a> --></p></div>
+        <div class="large-12 column"><p class="box-bg"><a class="graf-link">We've also got tutorials if you aren't quite sure where to start.</a> <!-- <a href="" class="success button">You Must Learn&rarr;</a> --></p></div>
+
+        <div class="large-12 column">
+          <p>We might want some more text here to fill the space. Maybe a brief blurb about the project with a redundant link to the <a href="">About Page.</a></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos rerum deserunt ratione magni placeat quisquam alias, quam adipisci delectus architecto minus doloribus quaerat fugiat veniam, et. Et commodi, quia saepe.</p>
+        </div>
     </div>
 
     <div class="large-12 columns top border-top">
