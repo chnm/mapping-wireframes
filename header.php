@@ -13,6 +13,7 @@
     <div class="row">
 
       <div class="large-6 columns">
+        <img class="logo" src="http://placehold.it/35x35?text=LOGO" alt="">
         <h1><a href="index.php">Mapping Early Elections</a></h1>
       </div>
 
