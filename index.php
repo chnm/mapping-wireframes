@@ -8,7 +8,7 @@
         </div>
         <div class="large-3 column top">
             <h3>Essay Title</h3>
-            <p>Headers are Share, which I feel lends a slight tech feel. Body text is Muli, similar to Avenir, which is popular right now. Lorem ipsum dolor sit amet, consectetur adipisicing elit. <a href="essay.php">Read more &rarr;</a></p>
+            <p>Headers are Muli, which also works well in this context. Body text is Lora, a serifed font, if you prefer that kind of thing. Color choices based on the colorbrewer maps. <a href="essay.php">Read more &rarr;</a></p>
         </div>
         </div>
 
