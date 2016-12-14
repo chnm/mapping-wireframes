@@ -83,11 +83,15 @@ h1 {font-size:2rem}
 
 .logo {float:left; margin:0;padding-top:.45rem;padding-right:.25rem}
 
-h1 a, a {color:$h1-color};
+h1 a {color:$h1-color};
+
+h1 a:hover {color:darken($h1-color,10%)}
 
 .button.success {background-color:$secondary-header-color}
 
-a:hover {color:darken($h1-color, 10%)}
+a {color:$secondary-header-color}
+
+a:hover {color:darken($secondary-header-color, 10%)}
 
 a.graf-link {color:#fff}
 

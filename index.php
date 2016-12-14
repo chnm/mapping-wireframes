@@ -7,7 +7,7 @@
             <img src="img/MappingExample.png" alt="" />
         </div>
         <div class="large-3 column top">
-            <h3>Essay Title</h3>
+            <h3><a href="essay.php">Essay Title</a></h3>
             <p>Headers are Share, which I feel lends a slight tech feel. Body text is Muli, similar to Avenir, which is popular right now. Color choices based on the colorbrewer maps. <a href="essay.php">Read more &rarr;</a></p>
         </div>
         </div>
